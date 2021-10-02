@@ -1,0 +1,5 @@
+aio-pika==6.8.0
+aiohttp==3.7.4.post0
+gunicorn==20.1.0
+pika==1.2.0
+
