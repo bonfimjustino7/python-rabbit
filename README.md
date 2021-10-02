@@ -1,6 +1,6 @@
 # Python Rabbit Pub/Sub
 
-- Transferencia de dados utilizando
+- Transferencia de dados utilizando mensageria
 - Consumidor websocket conectado a uma fila
 - Enviando dados de um publicador para consumidores interessados
 
